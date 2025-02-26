@@ -1,1 +1,1 @@
-web: gunicorn hello-world-p4-practice.wsgi
+web: gunicorn django_project.wsgi
